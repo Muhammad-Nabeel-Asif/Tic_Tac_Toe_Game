@@ -1,0 +1,15 @@
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\bin\Debug\ticTacToe_game.exe.config
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\bin\Debug\ticTacToe_game.exe
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\bin\Debug\ticTacToe_game.pdb
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.csprojAssemblyReference.cache
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\MainWindow.g.cs
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\App.g.cs
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game_MarkupCompile.cache
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game_MarkupCompile.lref
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\MainWindow.baml
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.g.resources
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.Properties.Resources.resources
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.csproj.GenerateResource.cache
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.csproj.CoreCompileInputs.cache
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.exe
+C:\Users\nabee\source\repos\ticTacToe_game\ticTacToe_game\obj\Debug\ticTacToe_game.pdb
